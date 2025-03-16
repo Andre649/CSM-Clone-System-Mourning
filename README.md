@@ -1,10 +1,19 @@
+title: "Dataset de Vozes Emocionais com Marca d'Água"
+description: "Projeto para criar e processar um dataset de vozes emocionais com marca d'água para cada emoção."
+
 Dataset de Vozes Emocionais com Marca d'Água
 
 Este projeto cria um dataset de vozes emocionais e aplica marcas d'água únicas a cada emoção para garantir autenticidade.
 
 📌 Funcionalidades
 
-✅ Baixa e processa áudios emocionais da base RAVDESS.✅ Converte os áudios para um formato padronizado (44.1kHz).✅ Aplica marcas d'água específicas para cada emoção.✅ Verifica se um áudio possui uma marca d’água válida.
+✅ Baixa e processa áudios emocionais da base RAVDESS.
+
+✅ Converte os áudios para um formato padronizado (44.1kHz).
+
+✅ Aplica marcas d'água específicas para cada emoção.
+
+✅ Verifica se um áudio possui uma marca d’água válida.
 
 🚀 Como Usar
 
@@ -63,4 +72,3 @@ Se o áudio tiver uma marca d’água válida, a emoção associada será exibid
 Este projeto é de código aberto e está disponível sob a licença MIT.
 
 Desenvolvido para estudos de IA aplicada à geração de voz emocional. 🚀
-
